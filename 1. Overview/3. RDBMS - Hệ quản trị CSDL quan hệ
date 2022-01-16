@@ -1,0 +1,7 @@
+Là một phần mềm máy tính cung cấp một môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và tìm kiếm CSDL.
+
+Nói cách khác, hệ QTCSDL là phần mềm tương tác với người dùng cuối, sử dụng chính CSDL để thu thập và phân tích
+
+Việc truy cập bởi nhiều người dùng trong cùng một lúc trở nên dễ dàng hơn. Điều này khắc phục được nhược điểm của cơ sở dữ liệu là chỉ cho phép một lượng nhỏ người dùng truy cập vào những thời điểm khác nhau
+
+MongoDB khác là nó lưu dữ liệu dạng NoSQL tức là không có sự ràng buộc giữa các bảng
