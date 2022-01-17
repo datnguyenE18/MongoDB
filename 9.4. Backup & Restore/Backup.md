@@ -34,7 +34,7 @@ Chú thích:
 
 ![image](https://user-images.githubusercontent.com/43572616/149738331-9b3936d9-5db8-495b-aed2-53d99cef3d7c.png)
 
-## 		
+##	
 > 	\# mongodump --dbpath DB_PATH --out BACKUP_DIRECTORY
 > 	
 > 	\# mongodump -d DB_PATH -o BACKUP_DIRECTORY
