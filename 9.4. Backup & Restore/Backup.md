@@ -21,7 +21,10 @@ Chú thích:
 **Lệnh này sẽ sao lưu tất cả cơ sở dữ liệu của mongod instance đã xác định**
 
 * Find out HostName:
-** B1: Chạy $ mongo
+
+** B1: Chạy: 
+> \$ mongo
+
 ** B2: 
 >\> hostname() 
 >
@@ -31,7 +34,7 @@ Chú thích:
 
 ![image](https://user-images.githubusercontent.com/43572616/149738331-9b3936d9-5db8-495b-aed2-53d99cef3d7c.png)
 
-		
+## 		
 > 	\# mongodump --dbpath DB_PATH --out BACKUP_DIRECTORY
 > 	
 > 	\# mongodump -d DB_PATH -o BACKUP_DIRECTORY
@@ -43,7 +46,7 @@ Chú thích:
 > 	\# mongodump --collection COLLECTION --db DB_NAME
 > 	
 > 	\# mongodump -c COLLECTION -d DB_NAME
-
+##
 **Lệnh này chỉ sao lưu Collection đã xác định của cơ sở dữ liệu đã cho**
 	
 ![image](https://user-images.githubusercontent.com/43572616/149738833-17a74c7e-0d6c-4124-a815-c5d29bbd19d1.png)
